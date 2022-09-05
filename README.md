@@ -21,9 +21,9 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
 [Collaboration Tool]
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Jira-181717?style=for-the-badge&logo=Jira&logoColor=white">
-<img src="https://img.shields.io/badge/Confluence-181717?style=for-the-badge&logo=Confluence&logoColor=white">
+<img src="https://img.shields.io/badge/github-41454A?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Jira-41454A?style=for-the-badge&logo=Jira&logoColor=white">
+<img src="https://img.shields.io/badge/Confluence-41454A?style=for-the-badge&logo=Confluence&logoColor=white">
 
 
 <!---
