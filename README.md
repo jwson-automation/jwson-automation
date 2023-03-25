@@ -10,7 +10,7 @@
 
 <h3 align="left">I'm Solving Algorithm : </h3>
 
-https://github.com/jwson-automation/Baekjoon
+[https://github.com/jwson-automation/Baekjoon](https://github.com/jwson-automation/Algorithm)
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sonjungwoo9)
 
