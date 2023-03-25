@@ -50,12 +50,12 @@ https://github.com/jwson-automation/Baekjoon
 
 <h3 align="left">History:</h3>
 
-- ~ 2020.4 : Busan University of Foreign Language ( Japanese & English, Translation Track)
+`2021.3` : Busan University of Foreign Language Graduation ( Japanese & English, Translation Track)
 
-- 2020.4 ~ 2022.10 : Navis Auto Motive Systems ( QA Engineer of Japan Market, Test Management & Benchmarking of Naviagation Database and Software )
+`2020.4 ~ 2022.10` : Navis Auto Motive Systems ( QA Engineer of Japan Market, Test Management & Benchmarking of Naviagation Database and Software )
 
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"><img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=white">
 
-- Now : Samsung Software Academy For Youth ( SSAFY 9th Student, Mobile Track )
+`2023.01.01 ~` : Samsung Software Academy For Youth ( SSAFY 9th Student, Mobile Track )
 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
