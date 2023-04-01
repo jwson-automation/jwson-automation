@@ -28,7 +28,7 @@
   
 </p>
 
-<h3 align="left">Somtimes Using With:</h3>
+<h3 align="left">Using With:</h3>
 
 <p align="left">
   
