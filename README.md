@@ -52,7 +52,7 @@
 
 <h3 align="left">History:</h3>
 
-`2021.3` : Busan University of Foreign Language Graduation ( Japanese & English, Translation Track)
+`2014.3 ~ 2021.3` : Busan University of Foreign Language Graduation ( Japanese & English, Translation Track)
 
 `2020.4 ~ 2022.10` : Navis Auto Motive Systems ( QA Engineer of Japan Market, Test Management & Benchmarking of Naviagation Database and Software )
 
