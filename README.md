@@ -61,3 +61,5 @@
 `2023.1 ~` : Samsung Software Academy For Youth ( SSAFY 9th Student, Mobile Track )
 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
+
+Study Note : 👉 https://github.com/jwson-automation/SSAFY-STUDY-NOTE 👈
