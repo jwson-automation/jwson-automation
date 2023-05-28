@@ -4,8 +4,6 @@
 
 - 📫 How to reach me **sonjungwoo9@gmail.com**
 
-- Now I'm Making This Project : 👉 https://github.com/jwson-automation/side_project_puppy_mobile 👈
-
 - Teaching Algorithm for Beginner (Korean) : 👉 https://www.youtube.com/channel/UCEg8bVaXenw8eAkV7C14usg 👈
 
 <h3 align="left">I'm Solving Algorithm : </h3>
