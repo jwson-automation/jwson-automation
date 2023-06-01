@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm jwson</h1>
 
-- 🌱 I’m **Android Engineer!**
+- 🌱 I’m **Android Developer!**
 
-- 📫 How to reach me **sonjungwoo9@gmail.com**
+- 📫 How to contact :  **sonjungwoo9@gmail.com**
 
 - History of Developer Activity by Notion (Korean) : 👉 https://honorable-airedale-966.notion.site/c1136b5367974caea2a506d7e752c949 👈
 
