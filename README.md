@@ -4,6 +4,8 @@
 
 - 📫 How to reach me **sonjungwoo9@gmail.com**
 
+- History of Developer Activity by Notion (Korean) : 👉 https://honorable-airedale-966.notion.site/c1136b5367974caea2a506d7e752c949 👈
+
 - Teaching Algorithm for Beginner (Korean) : 👉 https://www.youtube.com/channel/UCEg8bVaXenw8eAkV7C14usg 👈
 
 <h3 align="left">I'm Solving Algorithm : </h3>
