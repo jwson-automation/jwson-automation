@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm jwson</h1>
 
+
 - 🌱 I’m **Android Developer!**
 
 - 📫 How to contact :  **sonjungwoo9@gmail.com**
