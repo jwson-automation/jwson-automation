@@ -1,19 +1,11 @@
 <h1 align="center">Hi 👋, I'm jwson</h1> 
 
+🏃‍♂️ I’m **Android Engineer!**
 
-- 🌱 I’m **Android Developer!**
+📫 How to contact :  **sonjungwoo9@gmail.com**
 
-- 📫 How to contact :  **sonjungwoo9@gmail.com**
+My Algorithm Online Course of inflearn (Korean) : 👉 https://inf.run/5TTn 👈
 
-- Notion portfolio (Korean) : 👉 https://honorable-airedale-966.notion.site/c1136b5367974caea2a506d7e752c949 👈
-
-- Teaching Algorithm for Beginner (Korean) : 👉 https://www.youtube.com/channel/UCEg8bVaXenw8eAkV7C14usg 👈
-
-<h3 align="left">I'm Solving Algorithm : </h3>
-
-[https://github.com/jwson-automation/Baekjoon](https://github.com/jwson-automation/Algorithm)
-
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sonjungwoo9)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -54,8 +46,12 @@
 
 <h3 align="left">History:</h3>
 
-`2014.3 ~ 2021.3` : Busan University of Foreign Language Graduation ( Japanese & English, Translation Track)
+`2014.3 ~ 2021.3` : Busan University of Foreign Language Graduation [Korea] ( Japanese & English, Translation Track)
+ 
+`2020.4 ~ 2022.10` : Navis Auto Motive Systems [Korea] ( QA Engineer of Japan Market, Test Management & Benchmarking of Naviagation Database and Software )
 
-`2020.4 ~ 2022.10` : Navis Auto Motive Systems ( QA Engineer of Japan Market, Test Management & Benchmarking of Naviagation Database and Software )
+`2022.10 ~ 2023.06` : Samsung Software Academy for Youth [Korea] ( 9th Mobile Team, Study about mobile Engineering )
 
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"><img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=white">
+`2023.06 ~ 2023.10` : Teaching Algorithm by Online Community inflearn [Korea] ( https://inf.run/5TTn )
+
+`2023.11 ~ ` : Team Lab,inc [Japan] ( Mobile Team, Android Engineer )
