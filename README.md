@@ -52,6 +52,6 @@ My Algorithm Online Course of inflearn (Korean) : 👉 https://inf.run/5TTn 👈
 
 `2022.10 ~ 2023.06` : Samsung Software Academy for Youth [Korea] ( 9th Mobile Team, Study about mobile Engineering )
 
-`2023.06 ~ 2023.10` : Teaching Algorithm by Online Community inflearn [Korea] ( https://inf.run/5TTn )
+`2023.06 ~ 2023.08` : Teaching Algorithm by Online Community inflearn [Korea] ( https://inf.run/5TTn )
 
 `2023.11 ~ ` : Team Lab,inc [Japan] ( Mobile Team, Android Engineer )
