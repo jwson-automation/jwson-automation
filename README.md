@@ -46,7 +46,7 @@ My Algorithm Online Course of inflearn (Korean) : 👉 https://inf.run/5TTn 👈
 
 <h3 align="left">History:</h3>
 
-`2014.3 ~ 2021.3` : Busan University of Foreign Language Graduation [Korea] ( Japanese & English, Translation Track)
+`2014.3 ~ 2021.3` : Busan University of Foreign Language Studies [Korea] ( Japanese & English, Translation Track)
  
 `2020.4 ~ 2022.10` : Navis Auto Motive Systems [Korea] ( QA Engineer of Japan Market, Test Management & Benchmarking of Naviagation Database and Software )
 
