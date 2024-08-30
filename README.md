@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm jwson</h1> 
 
-🏃‍♂️ I’m **Android Engineer!**
+🏃‍♂️ I’m **Android Native Engineer!**
 
 📫 How to contact :  **sonjungwoo9@gmail.com**
 
-My Algorithm Online Course of inflearn (Korean) : 👉 https://inf.run/5TTn 👈
+I am a teacher of Engineer in Korea! : 👉 https://inf.run/5TTn 👈
+
+Team Leader of Blueberry team! : 👉 https://github.com/blueberry-team 👈
 
 
 <h3 align="left">Connect with me:</h3>
