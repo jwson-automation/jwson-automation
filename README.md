@@ -6,9 +6,7 @@
 
 I am a teacher of Engineer in Korea! : 👉 https://inf.run/5TTn 👈
 
-Team Leader of Blueberry team! : 👉 https://github.com/blueberry-team 👈
-
-PokeTree Project! : https://poketrees.com/auth?lang=en
+Team Leader of Blueberry team! : 👉 https://blueberry-team.com/ 👈
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/blueberry95)
 
