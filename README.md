@@ -48,4 +48,6 @@ Team Leader of Blueberry team! : 👉 https://blueberry-team.com/ 👈
 
 `2023.06 ~ 2023.08` : Teaching Algorithm by Online Community inflearn [Korea] ( https://inf.run/5TTn )
 
-`2023.11 ~ ` : Team Lab,inc [Japan] ( Mobile Team, Android Engineer )
+`2023.11 ~ 2025.03` : Team Lab,inc [Japan] ( Mobile Team, Android Engineer )
+
+`2025.03 ~ ` : Accenture Japan Ltd. ( Custom Software Engineering Specialist )
